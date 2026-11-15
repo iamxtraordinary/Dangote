@@ -1,0 +1,1 @@
+{"$schema":"https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json","solution":{"name":"dangote-it-portal-client-side-solution","id":"d43ec68f-9b34-4df2-8b17-1c2f4f8a6d91","version":"0.1.0.0","includeClientSideAssets":true,"skipFeatureDeployment":true,"isDomainIsolated":false},"paths":{"zippedPackage":"solution/dangote-it-portal.sppkg"}}
