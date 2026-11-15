@@ -1,0 +1,9 @@
+node_modules/
+lib/
+temp/
+dist/
+release/
+sharepoint/solution/*.sppkg
+*.log
+.DS_Store
+.vscode/

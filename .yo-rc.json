@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.24.1",
+    "libraryName": "dangote-it-portal",
+    "libraryId": "d43ec68f-9b34-4df2-8b17-1c2f4f8a6d91",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Dangote IT Portal",
+    "solutionShortDescription": "Dangote Group IT Department dashboard",
+    "isCreatingSolution": true,
+    "skipFeatureDeployment": true,
+    "componentType": "webpart",
+    "framework": "react",
+    "componentName": "DangoteItPortal",
+    "componentDescription": "Dangote Group IT Department dashboard"
+  }
+}
